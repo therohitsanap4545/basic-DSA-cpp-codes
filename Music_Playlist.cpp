@@ -274,8 +274,8 @@ int main() {
     return 0;
 }
 //output
-PS C:\Users\DELL\Downloads\Narendra 228> g++ Music_Playlist.cpp -o Music_playlist.exe
-PS C:\Users\DELL\Downloads\Narendra 228> ./Music_playlist.exe
+PS C:\Users\DELL\Downloads\cpp codes rohit> g++ Music_Playlist.cpp -o Music_playlist.exe
+PS C:\Users\DELL\Downloads\cpp codes rohit> ./Music_playlist.exe
 
 --- Music Playlist Manager ---
 1. Add Song
